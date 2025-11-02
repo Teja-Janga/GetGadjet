@@ -2,6 +2,9 @@
 
 A feature-rich e-commerce app built for my PHP Developer certification: user registration, login, shopping, order history, and full admin product management panel.
 
+## 🚀 Live Demo
+[Demo Link](https://getgadjets.free.nf/)
+
 ## Tech Stack
 - PHP (OOP + procedural)
 - MySQL
@@ -25,7 +28,9 @@ A feature-rich e-commerce app built for my PHP Developer certification: user reg
 - Email: admin@example.com
 - Password: admin123
 
+## Deployment
+[Visit to see the process of deployment](https://youtu.be/kTfuZzuwczg?si=WQuK7lsJIk9VNBeQ)
+
 *Project Created by Teja Janga*
 
-## License
-MIT (or your preferred license)
+
