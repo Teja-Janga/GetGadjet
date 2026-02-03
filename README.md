@@ -3,7 +3,7 @@
 A feature-rich e-commerce app built for my PHP Developer certification: user registration, login, shopping, order history, and full admin product management panel.
 
 ## 🚀 Live Demo
-[Demo Link](https:// /)
+[Demo Link](https://getgadjets.free.nf/)
 
 ## Tech Stack
 - PHP (OOP + procedural)
