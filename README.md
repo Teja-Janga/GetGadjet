@@ -42,6 +42,7 @@ Management, and Admin workflow optimization.
   ├── view-order-details.php    # Detailed itemized invoice view
   └── index.php                 # Main storefront gallery
 
+```
 ---
 
 ## 🔑 Demo Credentials
