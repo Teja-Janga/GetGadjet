@@ -51,4 +51,3 @@ Management, and Admin workflow optimization.
 - Password: `admin123`
 
 *👨‍💻Project Developed by Teja Janga*
-
