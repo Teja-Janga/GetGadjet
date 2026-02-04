@@ -33,6 +33,7 @@ Management, and Admin workflow optimization.
 
 ## 📂 Project Structure
 
+```
 /GetGadjet
   ├── images/                   # Product and UI assets
   ├── database.php              # Central DB connection (Security: Ignored in Git)
